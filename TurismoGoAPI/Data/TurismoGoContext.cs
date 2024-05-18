@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
 namespace TurismoGoAPI.Data;
+//Este es un cambio
 
 public partial class TurismoGoContext : DbContext
 {
